@@ -1,3 +1,6 @@
+body {
+   cursor: url(../styles/images/icecreamcone.gif), default;
+}
 #homepage {
   width: 80%;
   margin:auto;
