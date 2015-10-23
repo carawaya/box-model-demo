@@ -1,25 +1,11 @@
-h1:hover {
-  color : aliceblue}
-a:visited {
+header img {
+  width: 33%;
+}
+a {
   text-decoration: none;
 }
-header {
-  text-align: center;
-  width: 75%;
-  margin: auto;
+nav a {
+  text-decoration: line-through;
 }
-
-article {
-  width: 60%;
-  margin: auto;
-}
-
-p::first-letter { 
-    font-size: 1.5em;
-}
-
-footer {
-  border: 2px solid;
-  border-radius: 25px;
-  color: aqua;
-}
+p {color: magenta;}
+p { color: orange;}
