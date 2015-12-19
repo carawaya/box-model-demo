@@ -5,12 +5,7 @@ a:link {
 }
 
 article {float: left;
-        width: 80%;
-        background-color: aqua;}
-
-aside{float: right;
-      width: 20%;
-      background-color: pink;}
+        width: 80%;}
 
 footer {clear: both; }
 
